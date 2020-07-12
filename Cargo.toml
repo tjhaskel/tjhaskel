@@ -1,0 +1,12 @@
+[package]
+edition = "2018"
+name = "simpleterm_profile"
+version = "0.2.5"
+authors = ["Trevan Haskell <dev@trevanhaskell.com>"]
+description = "A bespoke fake terminal written in Rust"
+repository = "https://github.com/tjhaskel/tjhaskel"
+readme = "README.md"
+license = "MIT"
+
+[dependencies]
+piston_window = "0.109.0"
